@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "runtimeify index.js -o initrd && runtime-qemu ./initrd"
+  },
+  "dependencies": {
+    "runtimejs": "^0.1.1"
+  },
+  "devDependencies": {
+    "runtime-tools": "^0.1.1",
+    "runtimeify": "^0.1.2"
+  }
+}
