@@ -1,6 +1,6 @@
 ## SYNOPSIS
 
-runtime.js helloworld application
+[runtime.js](https://github.com/runtimejs/runtime) helloworld application
 
 ## INSTALL
 
