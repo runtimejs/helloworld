@@ -1,8 +1,6 @@
-## SYNOPSIS
+##[runtime.js](https://github.com/runtimejs/runtime) helloworld example application
 
-[runtime.js](https://github.com/runtimejs/runtime) helloworld application
-
-## INSTALL
+### Install
 
 Clone this repository and install dependencies:
 
@@ -11,6 +9,8 @@ git clone https://github.com/runtimejs/helloworld.git
 cd helloworld
 npm install
 ```
+
+### Run
 
 Make sure you have QEMU installed, then
 
